@@ -1,0 +1,6 @@
+{
+  "name": "Microsoft Hub",
+  "description": "A high-performance modern mobile-first investment dashboard for Microsoft-inspired plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
